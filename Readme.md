@@ -1,0 +1,1 @@
+It is a dom project for practice Javascript dom in begginer level. I'm have followed Mordern Javascript which was took by Brad Traversy! 
